@@ -5,8 +5,9 @@
 WIP
 
 ## Background
+Some reasons behind the re-launch of swamp.audio.
 
-### Lack of representation in the digital space
+### Lack of representation for music in the digital space
 
 WIP
 
