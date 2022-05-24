@@ -30,7 +30,7 @@ WIP
 Is limited to basic resale condition royalties or management of rights and royalties on specific layer two platforms. 
 
 
-### Collaborative works and royalty based assets
+### Collaborative works and royalty based assets on layer 1
 
 There is no present solution native to layer 1 which allows for collaborative works between multiple artists, or multiple works from the same artist in one pack.
 
