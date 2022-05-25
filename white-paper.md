@@ -128,7 +128,7 @@ Innovator. Poet. Digital Storyteller. Creative Strategist.
 
 > "Storytelling, both with words and images, has been a passion and natural talent of mine since I was a child. 
 
-> By embracing both creativity and data/analytics, I’ve helped companies such as ConstantContact, Live Nation, StubHub, and eBay stand out more from competitors with innovative digital experiences. I believe that it's more impactful to invite customers into the brand experience, and by doing so, have  the customer want to invite our brand into their own story."
+> By embracing both creativity and data/analytics, I’ve helped companies such as ConstantContact, Live Nation, [StubHub](https://ryan-conklin.squarespace.com/#/stubhub-work/), and [Ebay](https://ryan-conklin.squarespace.com/#/ebay/), and many more stand out more from competitors with innovative digital experiences. I believe that it's more impactful to invite customers into the brand experience, and by doing so, have  the customer want to invite our brand into their own story."
 
 
 ## Disclaimer 
