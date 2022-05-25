@@ -98,7 +98,7 @@ WIP
 
 ## [WIP] Tokenomics
 
-WIP
+Token name: ROYALTY MANAGEMENT TOKEN (RMT)
 
 ### [WIP] Token Distribution
 
