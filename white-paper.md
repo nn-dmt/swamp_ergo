@@ -116,7 +116,21 @@ WIP
 
 ### Project Lead: Mike Belanger
 
-WIP
+Co-founder of Swamp.audio
+
+A data-driven, self-made systems architect who has an exceptional ability to address deficits and build business processes from the ground up. He provides proven methodologies which promote both sustained growth and consistency that scales with the organization. 
+
+Integrating history from a wide array of enterprise roles, mostly in the Information Technology and Industrial Processing sectors, and acting with mission-driven integrity and a passion for improving quality of life through science and technology.
+
+### Marketing Lead: Ryan Conklin
+
+Innovator. Poet. Digital Storyteller. Creative Strategist.
+
+```
+"Storytelling, both with words and images, has been a passion and natural talent of mine since I was a child. 
+
+By embracing both creativity and data/analytics, I’ve helped companies such as ConstantContact, Live Nation, StubHub, and eBay stand out more from competitors with innovative digital experiences. I believe that it's more impactful to invite customers into the brand experience, and by doing so, have the customer want to invite our brand into their own story."
+```
 
 ## Disclaimer 
 
