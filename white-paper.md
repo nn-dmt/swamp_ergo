@@ -1,6 +1,6 @@
 # Swamp.Audio Whitepaper
 
-## A Layer-1 rights management leader & layer 2 music launchpad
+## A Layer-1 rights management leader & layer 2 music project launchpad
 
 WIP
 
