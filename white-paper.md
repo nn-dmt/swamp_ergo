@@ -1,6 +1,6 @@
 # Swamp.Audio Whitepaper
 
-## A Layer-1 on-chain royalty management system & DAO Music publisher
+## A Layer-1 on-chain royalty management system & DAO Media publisher
 
 WIP
 
