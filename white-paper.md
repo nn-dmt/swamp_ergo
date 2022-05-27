@@ -116,7 +116,7 @@ WIP
 
 ### Project Lead: Mike Belanger
 
-Co-founder of Swamp.audio
+Founder of Swamp.audio
 
 A data-driven, self-made systems architect who has an exceptional ability to address deficits and build business processes from the ground up. He provides proven methodologies which promote both sustained growth and consistency that scales with the organization. 
 
@@ -130,6 +130,11 @@ Innovator. Poet. Digital Storyteller. Creative Strategist.
 
 > By embracing both creativity and data/analytics, I’ve helped companies such as ConstantContact, Live Nation, [StubHub](https://ryan-conklin.squarespace.com/#/stubhub-work/), and [Ebay](https://ryan-conklin.squarespace.com/#/ebay/), and many more stand out more from competitors with innovative digital experiences. I believe that it's more impactful to invite customers into the brand experience, and by doing so, have  the customer want to invite our brand into their own story."
 
+### Front End / Full Stack Developer: Alex Gonzales
+
+Full Stack dev & Music Producer
+
+Alex is a Software Engineer with a degree in Technocultural Studies from the University of California, Davis. He's most interested in the intersection of technology with art, culture and science. His career experience includes building server side APIs with Node/Express, Python/Flask and Ruby on Rails in addition client side applications using React and Redux. He also writes & produces music under the name Spoken Bird.
 
 ## Disclaimer 
 
