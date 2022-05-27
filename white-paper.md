@@ -130,7 +130,7 @@ Innovator. Poet. Digital Storyteller. Creative Strategist.
 
 > By embracing both creativity and data/analytics, I’ve helped companies such as ConstantContact, Live Nation, [StubHub](https://ryan-conklin.squarespace.com/#/stubhub-work/), and [Ebay](https://ryan-conklin.squarespace.com/#/ebay/), and many more stand out more from competitors with innovative digital experiences. I believe that it's more impactful to invite customers into the brand experience, and by doing so, have  the customer want to invite our brand into their own story."
 
-### Front End / Full Stack Developer: Alex Gonzales
+### Front End / Full Stack Developer: Alex Gonzalez
 
 Full Stack dev & Music Producer
 
