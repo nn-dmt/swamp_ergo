@@ -134,7 +134,7 @@ Innovator. Poet. Digital Storyteller. Creative Strategist.
 
 Full Stack dev & Music Producer
 
-Alex is a Software Engineer with a degree in Technocultural Studies from the University of California, Davis. He's most interested in the intersection of technology with art, culture and science. His career experience includes building server side APIs with Node/Express, Python/Flask and Ruby on Rails in addition client side applications using React and Redux. He also writes & produces music under the name Spoken Bird.
+Alex is a Software Engineer with a degree in Technocultural Studies from the University of California, Davis. He's most interested in the intersection of technology with art, culture and science. His career experience includes building server side APIs with Java/Spring, Node/Express, Python/Flask and Ruby on Rails in addition client side applications using React and Redux. He also writes & produces music under the name Spoken Bird.
 
 ## Disclaimer 
 
