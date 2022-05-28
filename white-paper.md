@@ -150,12 +150,14 @@ THE RMT token holders can stake their RMT and receive RIGHTS-LP tokens in exchan
 
 ### Project Lead: Mike Belanger
 
-Founder of Swamp.audio, Avid electro-nerd
+Founder of Swamp.audio -- aKa Liquid_Phase
 
 A data-driven, self-made data-systems architect who has an exceptional ability to address deficits and build processes from the ground up. 
 He provides proven methodologies which promote both sustained growth and consistency that scales with the organization. 
 
 Integrating history from a wide array of enterprise roles, mostly in the Information Technology and Industrial Processing sectors, and acting with mission-driven integrity and a passion for improving quality of life through science and technology.
+
+He is a hobbyist musician who takes the technical and engineering aspects of music production seriously, having come from a family who worked in the Audio Industry manufacturing speakers and DSP equipment as white-label OEM for major brands.
 
 ### Marketing Lead: Ryan Conklin
 
