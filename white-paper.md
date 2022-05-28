@@ -148,6 +148,7 @@ THE RMT token holders can stake their RMT and receive RIGHTS-LP tokens in exchan
 ## Team Composition
 
 ### Project Lead: Mike Belanger
+https://www.linkedin.com/in/mike-belanger/
 
 Founder of Swamp.audio -- aKa Liquid_Phase
 
@@ -161,11 +162,13 @@ Michael has created Quality Control, Traceability, and Document Control systems 
 He is a hobbyist musician who takes the technical and engineering aspects of music production seriously, having come from a family who worked in the Audio Industry manufacturing speakers and DSP equipment as white-label OEM for major brands.
 
 ### Marketing Lead: Ryan Conklin
+https://www.linkedin.com/in/ryan-conklin-6926a11a/
 
 > "Storytelling, both with words and images, has been a passion and natural talent of mine since I was a child. 
 By embracing both creativity and data/analytics, I’ve helped companies such as ConstantContact, Live Nation, [StubHub](https://ryan-conklin.squarespace.com/#/stubhub-work/), and [Ebay](https://ryan-conklin.squarespace.com/#/ebay/), and many more stand out more from competitors with innovative digital experiences. I believe that it's more impactful to invite customers into the brand experience, and by doing so, have  the customer want to invite our brand into their own story."
 
 ### Front End / Full Stack Developer: Alex Gonzalez
+https://www.linkedin.com/in/af-gonzalez/
 
 Full Stack dev & Music Producer
 
