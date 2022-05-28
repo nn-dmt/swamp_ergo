@@ -213,12 +213,13 @@ Token name: TeraHertz (THz)
 
 ### [WIP] Token Distribution
 
-40 million max supply
+![distribution](https://user-images.githubusercontent.com/75390655/170838663-365c5b05-a49e-4cc3-9229-5c25bb136c45.png)
 
 
 ### [WIP] Emission
 
-All tokens will be released within a period of 14 months
+![emissions](https://user-images.githubusercontent.com/75390655/170838675-b6304b2f-53ac-491e-a5e7-60ae900064a6.png)
+
 
 ### [WIP] Utility 
 
