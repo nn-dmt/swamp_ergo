@@ -207,21 +207,21 @@ Q1- 2023
 - Begin integration of web-based DAW (digital audio workstation)
 - New years party for LP holders to celebrate music featuring Hennesey Sound System
 
-## [WIP] Tokenomics
+## Tokenomics
 
 Token name: TeraHertz (THz)
 
-### [WIP] Token Distribution
+### Token Distribution
 
 ![distribution](https://user-images.githubusercontent.com/75390655/170838663-365c5b05-a49e-4cc3-9229-5c25bb136c45.png)
 
 
-### [WIP] Emission
+### Emission
 
 ![emissions](https://user-images.githubusercontent.com/75390655/170838675-b6304b2f-53ac-491e-a5e7-60ae900064a6.png)
 
 
-### [WIP] Utility 
+### Utility 
 
 THz token holders can stake their THz and receive RIGHTS-LP tokens in exchange - by doing so they will be staking into the royalty payout system in direct to proportion to the value staked.
 
