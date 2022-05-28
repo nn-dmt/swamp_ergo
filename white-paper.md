@@ -12,25 +12,20 @@ In the decentralized/blockchain space, pretty much anyone who has been there a w
 So far, our experience in the space so far has been closer to the latter than the former, so we decided to start making moves to enhance the state of the technology and the experience for media producers and consumers on engaging on decentralized platforms.
 
 
-### Lack of representation for music in the digital space
+### Lack of value for music in the digital space
 
 Scams in the music industry: 
 https://medium.com/bandbasher/beware-the-top-3-music-industry-scams-633b3967fbfc
 
 ```
-•More than **365 million active monthly users** on Spotify
-•More than **165 million** of these monthly users pay for Spotify Premium
-•Spotify’s quarterly revenue in the **first quarter of 2019 was more than 1.8 billion euros**. 
-•Gross profit in the **first quarter of 2020 was 472 million euros with an operating loss of 17 million**
+Spotify revenue stats:
+•More than 365 million active monthly users on Spotify
+•More than 165 million of these monthly users pay for Spotify Premium
+•Spotify’s quarterly revenue in the first quarter of 2019 was more than 1.8 billion euros. 
+•Gross profit in the first quarter of 2020 was 472 million euros with an operating loss of 17 million
 
-**The amount that a stream is worth to an artist is low, with estimates being as low as $0.00318 per stream**
+•The amount that a stream is worth to an artist is low, with estimates being as low as $0.00318 per stream
 ```
-
-### Value for music and musicians not aligning with inflation
-
-3 Ways working for exposure hurts musicians:
-https://blog.reverbnation.com/2019/01/16/3-ways-working-for-exposure-is-bad-for-musicians/
-
 
 
 ### Post-COVID world for creative professionals
@@ -39,6 +34,8 @@ The effect that Covid had on economies and small business world-wide is unquesti
 But few working professionals were hit harder than musicians, who essentially relied on their touring income to make ends meet (as the media sales by this point have all but dropped away). Many small and medium musicians have had to get other jobs instead of relying solely on their crafts.
 
 Conversely, we have seen a surge in podcast and streaming consumption, media companies turning record profits, and the musicians getting fractions of pennies.
+
+At the same time, the decentralization movement has been pushing ever forward, and now seems like the best time to bring up the discussion about music.
 
 
 ### NFTs, decentralization & WEB 3.0
@@ -83,6 +80,7 @@ The audio NFT industry is presently limited to existing AuctionHouse platforms w
 
 There is no real well designed or developed solution which exists primarily for audio/music/stem content, so that is where our first focus is for developing tools in the NFT space.
 
+----------------
 
 ## Product Vision
 
@@ -153,15 +151,26 @@ We believe that by creating a new framework for NFT content packing on the layer
 
 ## Business Model
 
+Swamp.audio will continue to be a music and media publisher, but moving into the DAO space and becoming both community driven and transparent with all payments and fees. 
+
+There will be in-built fees for minting media through our platform, as well as available subscriptions for higher levels of traceability on monetized media and even legal representation of the work against unfair use.
+
+Legacy platform distribution requires legacy banking infrastructure, so the DAO will co-operate with Swamp Music LLC to officiate payouts from the fiat revenue to the artists. As this requires more infrastructure and tax overhead, we will be charging a fee to distribute to legacy platforms, or we will offer the musician to 'stake' the work with the royalties pool to distribute at no cost to them, where the pool provides that upfront investment. If the musician stakes their work to the pool there will be a smart contract written to dictate the time which that media is locked into the 'release agreement', based on the cost to produce and distribute the work,
+
+All fiat payout statistics from legacy platforms will be made public, and automated directly into our own system using their APIs. This is another reason it is important that our web CMS framework stays open source.
+
+The pool itself will have its own Utility Token, TeraHertz (THz).
 
 
 ## Customer Acquisition
 
 As we continue to focus on building tools and functional frameworks in the space, we will be equally focused on the user experience and the customer driven approach to build the customer base and increase APY revenue for stakeholders. It is important to know that in this system both the musician and the fan will be able to access the royalty payouts system by staking either media or by staking an adequate value of THz.
 
+
 ## Roadmap
 
 Q2- 2022
+Continue work integrating ergo node / graphQL
 
 Q3- 2022
 
