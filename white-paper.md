@@ -43,32 +43,46 @@ Conversely, we have seen a surge in podcast and streaming consumption, media com
 
 ### NFTs, decentralization & WEB 3.0
 
+There are many technologies in the blockchain space which lend themselves to industry by means of inherent immutability and traceability. This is beginning to be utilized almost everywhere in industry behind the scenes where manufacturers are testing private blockchains, blockchain supply chain networks, blockchain doc control systems, etc.
 
+We have been searching for a solution to integrate ‘our world’ with the blockchain space for some time, but until recently the high gas fees and barriers to entry have been an impeding factor for many 'regular businesses'.
+
+This is where Ergo comes into play.
 
 
 ## Market Gaps
 
 ### Rights / royalties management in the NFT space
 
-Is limited to basic resale condition royalties or management of rights and royalties on specific layer two platforms. Once you mint an NFT, there is the option to set the 'royalty' percentage, which is just the % amount of the resale value the original maker expects to be paid upon resale of the work. Compared to current media licensing rights abilities this is fairly primitive.
+Royalties are limited to basic resale condition royalties or management of rights and royalties on specific layer two platforms. Once you mint an NFT, there is the option to set the 'royalty' percentage, which is just the % amount of the resale value the original maker expects to be paid upon resale of the work. Compared to current media licensing rights abilities this is fairly primitive.
 
 
 ### Collaborative works and royalty based assets on layer 1
 
-There is no present solution native to layer 1 which allows for collaborative works between multiple artists, or multiple works from the same artist in one pack. Full albums of works can be multiple files, and include both audio and visual art - indicating that in its present state, the music NFT requires a layer two solution to organize album-based NFT music content. This is not an optimal solution in our eyes as it adds layers of complexity to the process of distribution and royalties.
+There is no present solution native to layer 1 which allows for collaborative works between multiple artists, or multiple works from the same artist in one pack. Full albums of works can be multiple files, and include both audio and visual art - indicating that in its present state, the music NFT requires a layer two solution to organize album-based NFT music content. This is not an optimal solution in our eyes as it adds layers of complexity to the process of distribution and royalties management.
 
 
 ### Little or none P2P music/media distribution systems
 
-WIP
+Generally if you say the terms P2P and Music in the same sentence, it would be referring to piracy. There are smaller players in the space who are exploring P2P based streaming solutions, but most have proven extremely difficult because of DRM licensing & DMCA. 
+
+To make a truly P2P system work for music, there needs to be incentivization on both ends (music and listener).
+
 
 ### Who owns the music?
-Surprise, it's not the person who made it or the person who buys it - it's the music publisher (often the label or rights management group)
+When you buy music, do you own it? You might have the physical disc in your hands, but do you really own the music? The answer is a resounding NO from the rights management organizations, who maintain that whoever submits the tracks to the rights organizations owns the music. 
+
+In most cases, the owners of the music end up being the record labels or publishing platforms, not the musicians or the fans.
+
+We think there is a way to change this, using DeFi to connect the musicians directly with their fans to create systems of value.
 
 
 ### Lack of a proper Audio/Music NFT market
 
-WIP
+The audio NFT industry is presently limited to existing AuctionHouse platforms who focus on artwork listing auctions in a style similar to eBay.
+
+There is no real well designed or developed solution which exists primarily for audio/music/stem content, so that is where our first focus is for developing tools in the NFT space.
+
 
 ## Product Vision
 
@@ -78,42 +92,72 @@ The tools we’re building aim to close the gap a bit when it comes to fans and 
 
 ### NFT traceability & monetization
 
-WIP
+Musicians and artists need to know where there media is being consumed, it helps them build internal value and helps them direct their future efforts better. By having traceability on the media consumption you also enable a chain of royalties which can go back to that artist, the two systems should work hand in hand and not have a company sitting between the fan buying the media and the person making that media waiting to take their 90+% of the payment.
+
+By creating tools which are completely workable on layer one, or as a DIY layer 2, we are aiming to enable a future where musicians can flip the script and receive most of or all of what the music fan paid to hear it. 
+
+Fortunately, we have an existing expertise in the space of monetization and IP traceability. By creating the framework early on, we hope to set a standard in music publishing in the non-fungible space which can be easily adopted by private organizations and large rights organizations, once they decide to start enforcing in the decentralized space (eventually, they will.)
+
 
 ### Community-driven publishing platform
 
-WIP
+As a DAO, the publishing platform will have dashboads for both musicians and fans alike. 
+
+• Fans will be able to stake liquidity to specific musicians
+• Fans will be able to stake liquidity to a DAO Royalty pool for APY on streaming media from legacy platforms
+• By directly supporting and engaging with the musicians, fans can receive special content drops such as first adopter NFT media
+• Musicians will be able to create Patreon-like fundraisers or subscriptions using Ergo
+• Musicians will be able to mint NFT content directly in the platform
+• Musicians will have the option to self distribute their media or to stake their media to the royalty pool
+• Stakeholders will be incentivized to promote and share musicians they are invested into
+• Musicians will be incentivized to consistently put out quality work to keep engagement with fans and LPs
+• Musicians will be able to interact with eachother and collaborate on the platform 
+• Fans will be able to interact with eachother and create playlists and fundraisers
+
 
 ### Open source framework 
 
-WIP
+Our entire framework developed for smart contracts, NFT minting schemas, and web content system / starter-kit will be open sourced so that any artist, musician, podcaster, label, publisher or even rights organization can adopt the framework.
+
+Our goals are to make tools which are easy to use and easily adoptable and make them public. We can see only good things come from this for the Ergo and Music communities and the world at large.
+
 
 ## Use-cases
 
 ### Music Producers
 
-WIP
+Swamp.audio itself will remain a media publisher, but turning into a DAO.
+
+• Musicians can distribute music both to legacy platforms while giving the options to bridge into the decentralized publishing space using the tools we build into our platform. 
+
+• Musicians can to directly connect with their listers in a grassroots way to build organic fanbases and systems of wealth between them and their investors.
+
+• Musicians can meet and collaborate with other musicians directly on the platform, with royalty tracking built in.
+
 
 ### Content Creators
 
-WIP
+In the NFT industry's current state, people who make samples, loops, stems, 3D assets, etc would all tell you that 'We need a folder or archive to display or sell the work.' To buy an audio sample pack of 50 samples as NFTs, the customer would need to make 50 purchases. 
+
+This is not an ideal solution for content creators or the customers of that media.
+
+At the same time, it is inherintly unsafe to allow hosting of unverified contents ZIP or RAR file archives on a service like IPFS / blockchain.
+
+This is why we need to create something better, and we think we have a way.
+
 
 ### NFT Artists
 
-WIP
-
-### 'Average Joes & Janes' 
-
-WIP
+We believe that by creating a new framework for NFT content packing on the layer-1 that NFT artists everywhere will have a new dimension to explore by creating heirarchies and groups of works. Some theoretical use cases of that would be: in-game NFT treasure chests containing all NFT items, where the chest is a parent NFT and the objects inside are child NFTs. This may sound easy by using a layer 2, but the idea is to remove the layer two if we can, so that the creators of the media have full power over the organization and distribution.
 
 
 ## Business Model
 
-WIP
+
 
 ## Customer Acquisition
 
-WIP
+As we continue to focus on building tools and functional frameworks in the space, we will be equally focused on the user experience and the customer driven approach to build the customer base and increase APY revenue for stakeholders. It is important to know that in this system both the musician and the fan will be able to access the royalty payouts system by staking either media or by staking an adequate value of THz.
 
 ## Roadmap
 
@@ -127,7 +171,7 @@ Q1- 2023
 
 ## [WIP] Tokenomics
 
-Token name: ROYALTY MANAGEMENT TOKEN (RMT)
+Token name: TeraHertz (THz)
 
 ### [WIP] Token Distribution
 
@@ -140,7 +184,7 @@ All tokens will be released within a period of 14 months
 
 ### [WIP] Utility 
 
-THE RMT token holders can stake their RMT and receive RIGHTS-LP tokens in exchange - by doing so they will be staking into the royalty payout system.
+THE THz token holders can stake their THz and receive RIGHTS-LP tokens in exchange - by doing so they will be staking into the royalty payout system in direct to proportion to the value staked.
 
 
 
@@ -161,11 +205,13 @@ Michael has created Quality Control, Traceability, and Document Control systems 
 
 He is a hobbyist musician who takes the technical and engineering aspects of music production seriously, having come from a family who worked in the Audio Industry manufacturing speakers and DSP equipment as white-label OEM for major brands.
 
+
 ### Marketing Lead: Ryan Conklin
 https://www.linkedin.com/in/ryan-conklin-6926a11a/
 
 > "Storytelling, both with words and images, has been a passion and natural talent of mine since I was a child. 
 By embracing both creativity and data/analytics, I’ve helped companies such as ConstantContact, Live Nation, [StubHub](https://ryan-conklin.squarespace.com/#/stubhub-work/), and [Ebay](https://ryan-conklin.squarespace.com/#/ebay/), and many more stand out more from competitors with innovative digital experiences. I believe that it's more impactful to invite customers into the brand experience, and by doing so, have  the customer want to invite our brand into their own story."
+
 
 ### Front End / Full Stack Developer: Alex Gonzalez
 https://www.linkedin.com/in/af-gonzalez/
@@ -173,6 +219,7 @@ https://www.linkedin.com/in/af-gonzalez/
 Full Stack dev & Music Producer
 
 Alex is a Software Engineer with a degree in Technocultural Studies from the University of California, Davis. He's most interested in the intersection of technology with art, culture and science. His career experience includes building server side APIs with Java/Spring, Node/Express, Python/Flask and Ruby on Rails in addition client side applications using React and Redux. He also writes & produces music under the name Spoken Bird.
+
 
 ## Disclaimer 
 
