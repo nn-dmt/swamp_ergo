@@ -9,7 +9,7 @@ And so it feels like a natural evolution for us to move into the blockchain and 
 
 In the decentralized/blockchain space, pretty much anyone who has been there a while would tell you it’s sort of a ‘wild west’ and that you should be careful. We are in agreement here, and think that it’s important for the developer teams and companies working in the space to build safe solutions for real people and not just try to capitalize on the next hype train to turn a quick buck. 
 
-So far, our experience in the space so far has been closer to the latter than the former, so we decided to start making moves to enhance the state of the technology and the experience for media producers and consumers engaging on decentralized platforms.
+So far, our experience in the space has been closer to the latter than the former, so we decided to start making moves to enhance the state of the technology and the experience for media producers and consumers engaging on decentralized platforms.
 
 
 ### Lack of value for music in the digital space
@@ -101,7 +101,7 @@ Fortunately, we have an existing expertise in the space of monetization and IP t
 
 ### Community-driven publishing platform
 
-As a DAO, the publishing platform will have dashboads for both musicians and fans alike. 
+As a DAO, the publishing platform will have dashboards for both musicians and fans alike. 
 
 • Fans will be able to stake liquidity to specific musicians
 
