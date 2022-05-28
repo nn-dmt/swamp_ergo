@@ -223,7 +223,7 @@ Token name: TeraHertz (THz)
 
 ### Utility 
 
-THz token holders can stake their THz and receive RIGHTS-LP tokens in exchange - by doing so they will be staking into the royalty payout system in direct to proportion to the value staked.
+THz token holders can stake their THz and receive RIGHTS-LP tokens in exchange - by doing so they will be staking into the royalty payout system in direct proportion to the value staked.
 
 
 ## Team Composition
