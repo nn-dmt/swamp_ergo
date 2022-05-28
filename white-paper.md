@@ -132,15 +132,16 @@ Token name: ROYALTY MANAGEMENT TOKEN (RMT)
 
 ### [WIP] Token Distribution
 
-WIP
+40 million max supply
+
 
 ### [WIP] Emission
 
-WIP
+All tokens will be released within a period of 14 months
 
 ### [WIP] Utility 
 
-THE ___ token holders can stake their _ and receive _ LP tokens in exchange - by doing so they will be staking into the royalty payout system.
+THE RMT token holders can stake their RMT and receive RIGHTS-LP tokens in exchange - by doing so they will be staking into the royalty payout system.
 
 
 
