@@ -140,7 +140,7 @@ Swamp.audio itself will remain a media publisher, but turning into a DAO.
 
 • Musicians can distribute music both to legacy platforms while giving the options to bridge into the decentralized publishing space using the tools we build into our platform. 
 
-• Musicians can to directly connect with their listers in a grassroots way to build organic fanbases and systems of wealth between them and their investors.
+• Musicians can directly connect with their listers in a grassroots way to build organic fanbases and systems of wealth between them and their investors.
 
 • Musicians can meet and collaborate with other musicians directly on the platform, with royalty tracking built in.
 
