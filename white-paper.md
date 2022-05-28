@@ -46,7 +46,7 @@ We have been searching for a solution to integrate ‘our world’ with the bloc
 
 This is where Ergo comes into play.
 
-After many hours of research into the decentralized space, we decided that Ergo was the optimal network to build on for their built-in trust, transparency, developer activity and access, sub-classes of cryptographic proofs (sigma protocols for self governing / autonomous systems) and cheap network fees. We think that Ergo is the strongest blockchain technology in the space right now and it's only growing bigger and better with all of the teams and projects currently building on it, even during 'the crypto winter'.
+After many months of research into the decentralized space, we decided that Ergo was the optimal network to build on for their built-in trust, transparency, developer activity and access, sub-classes of cryptographic proofs (sigma protocols for self governing / autonomous systems) and cheap network fees. We think that Ergo is the strongest blockchain technology in the space right now and it's only growing bigger and better with all of the teams and projects currently building on it, even during 'the crypto winter'.
 
 
 ## Market Gaps
