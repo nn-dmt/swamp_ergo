@@ -90,7 +90,7 @@ The tools we’re building aim to close the gap a bit when it comes to fans and 
 
 ### NFT traceability & monetization
 
-Musicians and artists need to know where their media is being consumed, it helps them build internal value and helps them direct their future efforts better. By having traceability on the media consumption you also enable a chain of royalties which can go back to that artist, the two systems should work hand in hand and not have a company sitting between the fan buying the media and the person making that media waiting to take their 90+% of the payment.
+Musicians and artists need to know where their media is being consumed, it helps them build internal value and helps them better direct their future efforts. By having traceability on the media consumption you also enable a chain of royalties which can go back to that artist, the two systems should work hand in hand and not have a company sitting between the fan buying the media and the person making that media waiting to take their 90+% of the payment.
 
 By creating tools which are completely workable on layer one, or as a DIY layer 2, we are aiming to enable a future where musicians can flip the script and receive most of or all of what the music fan paid to hear it. 
 
