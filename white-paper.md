@@ -169,7 +169,7 @@ Legacy platform distribution requires legacy banking infrastructure, so the DAO 
 
 All fiat payout statistics from legacy platforms will be made public, and automated directly into our own system using their APIs. This is another reason it is important that our web CMS framework stays open source.
 
-The pool itself will have its own Utility Token, TeraHertz (THz).
+The pool itself will have its own Utility Token, TeraHertz (THz) which can be utilized within the system and in future in-person events at music festivals featuring the publisher roster via guerilla marketing efforts and collaboration with festival vendors & organizers.
 
 
 ## Customer Acquisition
@@ -180,13 +180,30 @@ As we continue to focus on building tools and functional frameworks in the space
 ## Roadmap
 
 Q2- 2022
-Continue work integrating ergo node / graphQL
+- June IDO with Ergopad
+- Continue work integrating ergo node / graphQL explorer and developing our layer 1/layer 2 framework.
+- Complete musician and fan dashboards and allow limited beta testing
+- Finish all middleware flows from web CMS (laravel) to blockchain.
+- Launch fundraiser system for artists on platform
+- Smart contracts needed for minting flows and DAO functions
 
 Q3- 2022
+- Provide finished platform source code open-source on github
+- Setup Trust to manage Fiat revenue from legacy platforms
+- Open up musicians area closed sign up 
+- Open up beta for music fans access
+- Smart contracts for more advanced traceability
 
 Q4- 2022
+- Begin work on IPFS streaming player app
+- Yearly revenue/tax report - 1.5% of net profits to go to Charity (which charity chosen by DAO, the donation % is set and can be voted upon by the DAO but never be less than 1%)
+- Create functionality to allow musicians to create 'learning courses' to teach and earn revenue.
 
 Q1- 2023
+- Create laravel starter kit for easy install for DIY publishers
+- Begin integration of AI tools to allow more in depth collaboration and media production through the platform
+- Begin integration of web-based DAW (digital audio workstation)
+- New years party for LP holders to celebrate music featuring Hennesey Sound System
 
 ## [WIP] Tokenomics
 
@@ -204,8 +221,6 @@ All tokens will be released within a period of 14 months
 ### [WIP] Utility 
 
 THE THz token holders can stake their THz and receive RIGHTS-LP tokens in exchange - by doing so they will be staking into the royalty payout system in direct to proportion to the value staked.
-
-
 
 
 ## Team Composition
