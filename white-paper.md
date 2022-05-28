@@ -157,7 +157,7 @@ He provides proven methodologies which promote both sustained growth and consist
 
 Integrating history from a wide array of enterprise roles, mostly in the Information Technology and Industrial Processing sectors, and acting with mission-driven integrity and a passion for improving quality of life through science and technology.
 
-Michael has created Quality and Document Control systems which have been certified as ISO-9001:2015 compliant (intrinsicly safe/redundant systems for control and tracking of objects and media across large organizations and multiple locations) for major equipment manufacturers.
+Michael has created Quality Control, Traceability and Document Control systems which have been certified as ISO-9001:2015 compliant (intrinsicly safe/redundant systems for control and tracking of objects and media across large organizations and multiple locations) for major equipment manufacturers.
 
 He is a hobbyist musician who takes the technical and engineering aspects of music production seriously, having come from a family who worked in the Audio Industry manufacturing speakers and DSP equipment as white-label OEM for major brands.
 
