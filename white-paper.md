@@ -17,9 +17,6 @@ So far, our experience in the space so far has been closer to the latter than th
 Scams in the music industry: 
 https://medium.com/bandbasher/beware-the-top-3-music-industry-scams-633b3967fbfc
 
-3 Ways working for exposure hurts musicians:
-https://blog.reverbnation.com/2019/01/16/3-ways-working-for-exposure-is-bad-for-musicians/
-
 ```
 •More than **365 million active monthly users** on Spotify
 •More than **165 million** of these monthly users pay for Spotify Premium
@@ -31,7 +28,9 @@ https://blog.reverbnation.com/2019/01/16/3-ways-working-for-exposure-is-bad-for-
 
 ### Value for music and musicians not aligning with inflation
 
-some other statistics here
+3 Ways working for exposure hurts musicians:
+https://blog.reverbnation.com/2019/01/16/3-ways-working-for-exposure-is-bad-for-musicians/
+
 
 
 ### Post-COVID world for creative professionals
