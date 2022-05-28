@@ -20,15 +20,14 @@ https://medium.com/bandbasher/beware-the-top-3-music-industry-scams-633b3967fbfc
 3 Ways working for exposure hurts musicians:
 https://blog.reverbnation.com/2019/01/16/3-ways-working-for-exposure-is-bad-for-musicians/
 
-
-
+```
 •More than **365 million active monthly users** on Spotify
 •More than **165 million** of these monthly users pay for Spotify Premium
 •Spotify’s quarterly revenue in the **first quarter of 2019 was more than 1.8 billion euros**. 
 •Gross profit in the **first quarter of 2020 was 472 million euros with an operating loss of 17 million**
 
 **The amount that a stream is worth to an artist is low, with estimates being as low as $0.00318 per stream**
-
+```
 
 ### Value for music and musicians not aligning with inflation
 
