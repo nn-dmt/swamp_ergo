@@ -102,15 +102,25 @@ Fortunately, we have an existing expertise in the space of monetization and IP t
 As a DAO, the publishing platform will have dashboads for both musicians and fans alike. 
 
 • Fans will be able to stake liquidity to specific musicians
+
 • Fans will be able to stake liquidity to a DAO Royalty pool for APY on streaming media from legacy platforms
+
 • By directly supporting and engaging with the musicians, fans can receive special content drops such as first adopter NFT media
+
 • Musicians will be able to create Patreon-like fundraisers or subscriptions using Ergo
+
 • Musicians will be able to mint NFT content directly in the platform
+
 • Musicians will have the option to self distribute their media or to stake their media to the royalty pool
+
 • Stakeholders will be incentivized to promote and share musicians they are invested into
+
 • Musicians will be incentivized to consistently put out quality work to keep engagement with fans and LPs
+
 • Musicians will be able to interact with eachother and collaborate on the platform 
+
 • Fans will be able to interact with eachother and create playlists and fundraisers
+
 
 
 ### Open source framework 
